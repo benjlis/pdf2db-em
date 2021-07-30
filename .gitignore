@@ -1,5 +1,6 @@
 # Project-specific addition
 env.sh
+pdfemail.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
